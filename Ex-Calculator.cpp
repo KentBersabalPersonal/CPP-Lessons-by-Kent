@@ -1,3 +1,4 @@
+// I WON’T USE ANY ADVANCED FUNDAMENTALS FOR THIS, SO IT’S EASY TO BUILD AND UNDERSTAND
 
 #include <iostream>
 using namespace std;
