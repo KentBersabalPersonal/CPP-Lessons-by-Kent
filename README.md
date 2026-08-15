@@ -39,29 +39,21 @@ If you're also just starting out with C++, feel free to browse around, learn alo
 
 ## 🛠 Practice Projects
 
-Once I learn something new, I like to build small projects to make sure it actually sticks:
+Once I learn something new, I like to build small projects to make sure it actually sticks but these are projects that I have made randomly for you to understand it better:
 
 - **Ex-Banking-System-by-KentZel.cpp** — A simple banking system to practice structs, functions, and logic together
 - **Ex-Calculator.cpp** — A calculator to practice operators and conditionals
 
 ## ▶️ How to Run These Files
 
-You'll need a C++ compiler like `g++`. Then just:
+You'll need a C++ compiler like `VsCode`
 
-\`\`\`bash
-g++ filename.cpp -o output
-./output
-\`\`\`
-
-For example:
-
-\`\`\`bash
-g++ 01-Hello-world.cpp -o hello
-./hello
-\`\`\`
+Use VsCode for a beginner-friendly compiler :3
 
 ## 📈 What's Next
 
 I'm still learning! Coming up: more Object-Oriented Programming (inheritance, polymorphism), file handling, and maybe some data structures like linked lists.
 
-Thanks for stopping by — happy coding! 
+Thanks for stopping by — enjoy coding! 
+
+Kent Loves you <3
