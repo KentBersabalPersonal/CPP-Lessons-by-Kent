@@ -1,5 +1,6 @@
 
 #include <iostream>
+#include <string> // A Library for strings
 using namespace std;
 
 int main() {
