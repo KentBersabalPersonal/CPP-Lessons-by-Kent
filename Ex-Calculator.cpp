@@ -13,7 +13,7 @@ int main() {
   cout << "\nEnter 1st Number: " << endl;
   cin >> num1;
 
-  do {
+  do { 
   cout << "\nEnter the operator: " << endl;
   cin >> op;
 
@@ -46,3 +46,10 @@ int main() {
   return 0;
 }
 
+// && <-- THIS IS "AND"
+
+// != <-- THIS IS "NOT EQUAL TO"
+
+// \n <-- THIS IS "A NEWLINE STATEMENT"
+
+// I PLACED A DO-WHILE LOOP IN THE OPERATOR PART, IN ORDER FOR THE PROGRAM TO CONTINUE IF THE USERS INPUTS A WRONG OPERATOR
