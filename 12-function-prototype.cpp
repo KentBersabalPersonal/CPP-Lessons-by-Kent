@@ -1,32 +1,33 @@
 #include <iostream>
 using namespace std;
 
-int add(int a, int b);   // function prototype
+void greet(string name);   // function prototype
 
 int main() {
-    int result = add(5, 3);
-    cout << "\nSum: " << result << endl;
+    
+    greet("Kent");
     return 0;
 }
 
-int add(int a, int b) {
-    return a + b;
+void greet(string name) {
+    cout << "\nHello, " << name << "! Welcome to C++." << endl;
 }
 
 // OUTPUT IS:
-// Sum: 8
+// Hello, Kent! Welcome to C++.
 
 /*
  * MAIN IDEA:
- * int add(int a, int b);  -> function prototype: tells the compiler this
- *                           function exists before main() uses it
- *                           (the full code is written below main())
- * int add(int a, int b) { return a + b; }
- *                          -> declares a function named "add" that takes
- *                           two integers and returns an integer
- * return a + b;          -> sends the result back to wherever the
- *                           function was called
- * add(5, 3)               -> calling the function with actual values
+ * A void function performs an action but does NOT return anything back
+ * to where it was called.
+ *
+ * void greet(string name);  -> function prototype: no return value,
+ *                           just "void"
+ * void greet(string name) { cout << ...; }
+ *                          -> declares a function that prints a greeting
+ *                           but doesn't send any value back
+ * greet("Kent");            -> calling the function; nothing is stored
+ *                           from it (no "int result = ...")
  */
 
-// KAYA PANI GUYS :3
+// KAYA PANA GUYS :3
