@@ -1,6 +1,6 @@
 # C++ Lessons by KentZel
 
-Hey! This repository is where I'm documenting my journey learning C++ — one concept at a time. Each file focuses on a single topic, with simple, easy-to-follow code so I (and anyone else learning) can look back and understand exactly what's going on.
+Hello Po! This repository is where I'm documenting my journey learning C++ — one concept at a time. Each file focuses on a single topic, with simple, easy-to-follow code so I (and anyone else learning) can look back and understand exactly what's going on.
 
 If you're also just starting out with C++, feel free to browse around, learn alongside me, or fork this repo for your own practice!
 
