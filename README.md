@@ -56,4 +56,4 @@ I'm still learning! Coming up: more Object-Oriented Programming (inheritance, po
 
 Thanks for stopping by — enjoy coding! 
 
-**Kent Loves you <3**
+# Kent Loves you <3
